@@ -22,7 +22,7 @@ async function fetchGitHubStars(): Promise<void> {
     const node = document.getElementById("ghStarsCount");
     if (node) node.textContent = label;
   } catch {
-    // offline — silently ignore
+    // offline - silently ignore
   }
 }
 

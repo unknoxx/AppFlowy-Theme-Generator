@@ -75,8 +75,8 @@ export const COLOR_GROUPS: ColorGroup[] = [
   {
     label: "Hover & Interactions",
     colors: [
-      ["hoverBG1", "Hover background 1", "Item hover — translucent white", "#ffffff", 10],
-      ["hoverBG2", "Hover background 2", "Item hover — typically accent colour", "#e8e8e8", 100],
+      ["hoverBG1", "Hover background 1", "Item hover - translucent white", "#ffffff", 10],
+      ["hoverBG2", "Hover background 2", "Item hover - typically accent colour", "#e8e8e8", 100],
       ["hoverFG", "Hover text", "Text colour on hover", "#ffffff", 90],
     ],
   },
