@@ -15,7 +15,8 @@
     "lint": "eslint src/ts",
     "lint:fix": "eslint src/ts --fix",
     "format": "prettier --write src/ts index.html",
-    "format:check": "prettier --check src/ts index.html"
+    "format:check": "prettier --check src/ts index.html",
+    "add-preset": "node scripts/add-preset.js"
   },
   "dependencies": {
     "jszip": "^3.10.1"

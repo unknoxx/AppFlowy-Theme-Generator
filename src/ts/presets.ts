@@ -9,6 +9,17 @@ import notionDark from "../presets/notion-dark.json";
 import minimalNotion from "../presets/minimal-notion.json";
 import developerDark from "../presets/developer-dark.json";
 import developerLight from "../presets/developer-light.json";
+import catppuccinMocha from "../presets/catppuccin-mocha.json";
+import catppuccinLatte from "../presets/catppuccin-latte.json";
+import nord from "../presets/nord.json";
+import gruvboxDark from "../presets/gruvbox-dark.json";
+import gruvboxLight from "../presets/gruvbox-light.json";
+import tokyoNight from "../presets/tokyo-night.json";
+import rosePine from "../presets/rose-pine.json";
+import solarizedDark from "../presets/solarized-dark.json";
+import solarizedLight from "../presets/solarized-light.json";
+import oneDarkPro from "../presets/one-dark-pro.json";
+import synthwave84 from "../presets/synthwave-84.json";
 
 interface PresetColors {
   surface: { hex: string; opacity: number };
@@ -50,6 +61,17 @@ export const PRESETS: PresetTheme[] = [
   minimalNotion,
   developerDark,
   developerLight,
+  catppuccinMocha,
+  catppuccinLatte,
+  nord,
+  gruvboxDark,
+  gruvboxLight,
+  tokyoNight,
+  rosePine,
+  solarizedDark,
+  solarizedLight,
+  oneDarkPro,
+  synthwave84,
 ];
 
 export function loadPreset(id: string): void {

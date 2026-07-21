@@ -1,0 +1,28 @@
+{
+  "id": "tokyo-night",
+  "label": "Tokyo Night",
+  "dark": true,
+  "accent": "#7aa2f7",
+  "colors": {
+    "surface": { "hex": "#1a1b26", "opacity": 100 },
+    "sidebarBg": { "hex": "#16161e", "opacity": 100 },
+    "topbarBg": { "hex": "#16161e", "opacity": 100 },
+    "input": { "hex": "#24283b", "opacity": 100 },
+    "main": { "hex": "#7aa2f7", "opacity": 100 },
+    "text": { "hex": "#a9b1d6", "opacity": 100 },
+    "secondaryText": { "hex": "#787c99", "opacity": 100 },
+    "strongText": { "hex": "#c0caf5", "opacity": 100 },
+    "hint": { "hex": "#565f89", "opacity": 100 },
+    "icon": { "hex": "#7dcfff", "opacity": 100 },
+    "white": { "hex": "#c0caf5", "opacity": 100 },
+    "hoverBG1": { "hex": "#292e42", "opacity": 100 },
+    "hoverBG2": { "hex": "#7aa2f7", "opacity": 100 },
+    "hoverFG": { "hex": "#15161e", "opacity": 100 },
+    "divider": { "hex": "#292e42", "opacity": 100 },
+    "border": { "hex": "#292e42", "opacity": 100 },
+    "shadow": { "hex": "#0f0f14", "opacity": 100 },
+    "red": { "hex": "#f7768e", "opacity": 100 },
+    "yellow": { "hex": "#e0af68", "opacity": 100 },
+    "green": { "hex": "#9ece6a", "opacity": 100 }
+  }
+}

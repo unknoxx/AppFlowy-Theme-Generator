@@ -1,0 +1,28 @@
+{
+  "id": "rose-pine",
+  "label": "Rosé Pine",
+  "dark": true,
+  "accent": "#ebbcba",
+  "colors": {
+    "surface": { "hex": "#191724", "opacity": 100 },
+    "sidebarBg": { "hex": "#1f1d2e", "opacity": 100 },
+    "topbarBg": { "hex": "#1f1d2e", "opacity": 100 },
+    "input": { "hex": "#26233a", "opacity": 100 },
+    "main": { "hex": "#ebbcba", "opacity": 100 },
+    "text": { "hex": "#e0def4", "opacity": 100 },
+    "secondaryText": { "hex": "#908caa", "opacity": 100 },
+    "strongText": { "hex": "#e0def4", "opacity": 100 },
+    "hint": { "hex": "#6e6a86", "opacity": 100 },
+    "icon": { "hex": "#c4a7e7", "opacity": 100 },
+    "white": { "hex": "#e0def4", "opacity": 100 },
+    "hoverBG1": { "hex": "#2a283e", "opacity": 100 },
+    "hoverBG2": { "hex": "#ebbcba", "opacity": 100 },
+    "hoverFG": { "hex": "#191724", "opacity": 100 },
+    "divider": { "hex": "#26233a", "opacity": 100 },
+    "border": { "hex": "#26233a", "opacity": 100 },
+    "shadow": { "hex": "#12101b", "opacity": 100 },
+    "red": { "hex": "#eb6f92", "opacity": 100 },
+    "yellow": { "hex": "#f6c177", "opacity": 100 },
+    "green": { "hex": "#9ccfd8", "opacity": 100 }
+  }
+}
